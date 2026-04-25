@@ -1,0 +1,2 @@
+# Project configuration for CI/CD compatibility
+  openai_base_url = "http://127.0.0.1:8888"
